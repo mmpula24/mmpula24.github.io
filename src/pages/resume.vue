@@ -40,6 +40,7 @@
             <ul>
               <li>Design and build web sites as directed</li>
               <li>Learn required programming languages and libraries, to include PHP, VueJS, BootstrapVue, and Git</li>
+              <li>Create unit and component tests using Vue Test Utils and Jest</li>
             </ul>
             <p class="mb-1">REGISTRATION CLERK/COURSE SCHEDULER, BEMIDJI STATE UNIVERSITY (OCT 2019 - JUNE 2020)</p>
             <ul>
@@ -56,7 +57,7 @@
             <li>Designed, built, and maintained web sites using authoring or scripting languages, content creation tools, management tools, and digital media</li>
             <li>Performed and directed web site updates</li>
             <li>Wrote, designed, and edited web page content</li>
-            <li>Learned required programming languages and libraries, to include HTML, CSS, JavaScript, TypeScript, AngularJS, JSON, Bootstrap, and JQuery</li>
+            <li>Learned required programming languages and libraries, to include HTML, CSS, JavaScript, TypeScript, Angular, JSON, Bootstrap, and JQuery</li>
             </ul>
             <p class="mb-1">BAILIFF, BELTRAMI COUNTY SHERIFF’S OFFICE (APR 2008 - AUG 2012)</p>
             <ul>

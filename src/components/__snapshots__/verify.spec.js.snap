@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mount a vue component 1`] = `
+<mdb-container firstnum="2">
+  <mdb-row class="justify-content-center">
+    <mdb-card class="card-body mt-4">
+      <mdb-card-title>Calculate</mdb-card-title>
+      <mdb-card-body>
+        <mdb-row>
+          <mdb-col col="3">
+            <mdb-input type="number" outline="" placeholder="First number"></mdb-input>
+          </mdb-col>
+          <mdb-col col="3"><select class="browser-default custom-select mt-4">
+              <option value="">Select Op</option>
+              <option value="+">+</option>
+              <option value="-">-</option>
+              <option value="*">*</option>
+              <option value="/">/</option>
+            </select></mdb-col>
+          <mdb-col col="3">
+            <mdb-input type="number" outline="" placeholder="Second number"></mdb-input>
+          </mdb-col>
+          <mdb-col col="3" class="mt-2">
+            <mdb-btn color="success">Calculate</mdb-btn>
+          </mdb-col>
+        </mdb-row>
+        <!---->
+      </mdb-card-body>
+    </mdb-card>
+  </mdb-row>
+</mdb-container>
+`;
